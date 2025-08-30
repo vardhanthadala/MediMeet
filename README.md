@@ -4,6 +4,15 @@ Welcome to **MEDIMEET**, a cutting-edge web application designed to revolutioniz
 
 ---
 
+![Doctor Consultation UI](https://images.openai.com/thumbnails/url/y8pLfXicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7JSvc3KA0uj_QvyXPzzA2MytGtdIsw1DUtiQz19At2yy5J1C10y0uqCjQJi0wtT03289L1LU429cmLdFQrBgAjiinx)
+
+![Appointment Dashboard](https://images.openai.com/thumbnails/url/dAFzCXicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4xqTKorHQKzE7PKMovzctIdzVyCkv28SxKNErKSHNPczcP9ChOSXKPcCuuSi5JDE0yDytw9vAtya7yKlcrBgA9Eir-)
+
+![Doctor Profile UI](https://images.openai.com/thumbnails/url/Y15o0nicu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6uDHRxDPP2DjOodCv0zqxK9EoNqQgL8Qh1Lc0JCtNNiaowLLPwtPA1zigvd9V19s_0zChL9c8ucHVXKwYAx-YpOg)
+
+![Admin Panel UI](https://images.openai.com/thumbnails/url/_rArDHicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw72SS_Pdgwu8_A3SC33yjEK8_Yv0Q31TjJ2LQsuczYsivfNCkoJSCkNdEmNMHV3N44KzgwN9tUtzozMd1QrBgAW5imY)
+
+
 ## 🚀 Live Demo
 
 Experience MEDIMEET in action:
@@ -73,4 +82,5 @@ We welcome contributions, feedback, and ideas! Feel free to open issues or pull 
 ---
 
 **MEDIMEET** — Empowering healthcare access, one appointment at a time.
+
 
