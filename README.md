@@ -22,7 +22,7 @@ Welcome to **MEDIMEET**, a cutting-edge web application designed to revolutioniz
 
 Experience MEDIMEET in action:
 
-🔗 [Live Demo](https://medimeet-self.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://medimeet-self.vercel.app/)
 
 ---
 
@@ -86,4 +86,5 @@ We welcome contributions, feedback, and ideas! Feel free to open issues or pull 
 ---
 
 **MEDIMEET** — Empowering healthcare access, one appointment at a time.
+
 
