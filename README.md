@@ -2,11 +2,6 @@
 
 Welcome to **MEDIMEET**, a cutting-edge web application designed to revolutionize the way patients connect with doctors worldwide. Whether you're seeking medical advice from the comfort of your home or managing your practice as a healthcare professional, MEDIMEET offers a seamless, secure, and intuitive experience.
 
-
----
-
-<img width="1470" alt="Screenshot 2024-12-10 at 9 45 45 AM" src="[https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432](https://www.behance.net/gallery/226380531/MediMeet-Doctor-Appointment-Mobile-App-UI-UX-Design/modules/1294739295)">
-
 ---
 
 ## 🚀 Live Demo
@@ -77,6 +72,7 @@ We welcome contributions, feedback, and ideas! Feel free to open issues or pull 
 ---
 
 **MEDIMEET** — Empowering healthcare access, one appointment at a time.
+
 
 
 
