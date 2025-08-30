@@ -12,6 +12,7 @@ Welcome to **MEDIMEET**, a cutting-edge web application designed to revolutioniz
 
 ![Admin Panel UI](https://images.openai.com/thumbnails/url/_rArDHicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw72SS_Pdgwu8_A3SC33yjEK8_Yv0Q31TjJ2LQsuczYsivfNCkoJSCkNdEmNMHV3N44KzgwN9tUtzozMd1QrBgAW5imY)
 
+---
 
 ## 🚀 Live Demo
 
@@ -65,12 +66,12 @@ MEDIMEET is a comprehensive **Doctor Appointment & Virtual Consultation App** th
 
 ## 🛠️ Tech Stack
 
-| Layer              | Technology & Description                                                  |
-|--------------------|---------------------------------------------------------------------------|
-| **Frontend**       | ReactJS & Next.js — for fast, scalable, and SEO-friendly user interfaces.  |
-| **Backend**        | Neon (PostgreSQL as a service) — cloud-native database offering scalability and reliability. |
-| **Styling/UI**     | Tailwind CSS with Shadcn UI — for modern, responsive, and consistent UI design. |
-| **Video Calls**    | Vonage API — providing secure and reliable video consultation capabilities. |
+| Layer          | Technology & Description                                                  |
+|----------------|---------------------------------------------------------------------------|
+| **Frontend**   | ReactJS & Next.js — for fast, scalable, and SEO-friendly user interfaces.  |
+| **Backend**    | Neon (PostgreSQL as a service) — cloud-native database offering scalability and reliability. |
+| **Styling/UI** | Tailwind CSS with Shadcn UI — for modern, responsive, and consistent UI design. |
+| **Video Calls**| Vonage API — providing secure and reliable video consultation capabilities. |
 
 ---
 
@@ -78,9 +79,6 @@ MEDIMEET is a comprehensive **Doctor Appointment & Virtual Consultation App** th
 
 We welcome contributions, feedback, and ideas! Feel free to open issues or pull requests.
 
-
 ---
 
 **MEDIMEET** — Empowering healthcare access, one appointment at a time.
-
-
