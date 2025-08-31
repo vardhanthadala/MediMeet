@@ -1,4 +1,4 @@
-# MEDIMEET — Your Global Doctor Appointment & Consultation Platform
+# MEDIMEET — Your Global Doctor Appointment & Consultation Platform 
 
 Welcome to **MEDIMEET**, a cutting-edge web application designed to revolutionize the way patients connect with doctors worldwide. Whether you're seeking medical advice from the comfort of your home or managing your practice as a healthcare professional, MEDIMEET offers a seamless, secure, and intuitive experience.
 
@@ -72,6 +72,7 @@ We welcome contributions, feedback, and ideas! Feel free to open issues or pull 
 ---
 
 **MEDIMEET** — Empowering healthcare access, one appointment at a time.
+
 
 
 
