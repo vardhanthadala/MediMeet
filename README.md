@@ -14,7 +14,7 @@ Experience MEDIMEET in action:
 
 ## 🚀 Overview
 
-MEDIMEET is a comprehensive **Doctor Appointment & Virtual Consultation App** that empowers users to book, manage, and attend online consultations effortlessly. With role-based access tailored for both patients and doctors, a streamlined onboarding process, and robust video call integration, MEDIMEET is your trusted partner in digital healthcare.
+MEDIMEET is a comprehensive **Doctor Appointment & Virtual Consultation App** that empowers users to book, manage, and attend online consultations effortlessly. With role-based access tailored for both patients and doctors, a streamlined onboarding process, and robust video call integration, MEDIMEET is your trusted partner in digital healthcare.  
 
 ---
 
@@ -72,6 +72,7 @@ We welcome contributions, feedback, and ideas! Feel free to open issues or pull 
 ---
 
 **MEDIMEET** — Empowering healthcare access, one appointment at a time.
+
 
 
 
